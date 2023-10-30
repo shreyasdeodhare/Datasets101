@@ -1,0 +1,6 @@
+doskey /history
+doskey /history> history.txt
+d: 
+cd New Folder (3)
+cls
+doskey /history> history.txt
